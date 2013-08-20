@@ -94,3 +94,5 @@ log4j = {
 grails.plugins.springsecurity.userLookup.userDomainClassName = 'es.glotonea.Foody'
 grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'es.glotonea.UserRole'
 grails.plugins.springsecurity.authority.className = 'es.glotonea.Role'
+
+grails.config.defaults.locations = [KickstartResources]
