@@ -1,4 +1,4 @@
 glotonea
 ========
 
-Red social de recomendaciones
+Red social de recomendaciones culinarias.
