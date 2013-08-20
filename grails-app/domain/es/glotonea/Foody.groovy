@@ -13,9 +13,9 @@ class Foody extends User{
 	
 	static constraints = {
 		email blank:false, unique:true, email:true
-		//location maxSize: 100
+		location maxSize: 100
 		website url: true
-		//bio maxSize: 250
+		bio maxSize: 250
 	}
 	
 	
